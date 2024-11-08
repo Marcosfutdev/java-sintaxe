@@ -21,7 +21,7 @@ public class Cond {
      }
      else {
       System.out.println("Não há nenhum desses nomes anteriores");
-     }
+     
+    }
     }
 }
-
