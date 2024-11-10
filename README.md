@@ -1,1 +1,1 @@
-Em busca de aprender uma nova linguagem, nada melhor do que documentar essa jornada 🚀🚀🔥🔥
+Em busca de aprender uma nova linguagem. Nada melhor do que documentar essa jornada 🚀🚀🔥🔥
