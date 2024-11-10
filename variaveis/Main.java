@@ -1,4 +1,5 @@
 package variaveis;
+
 public class Main{
     public static void main(String[] args) {
       // Existe duas formas de nomear variáveis em JAVA:

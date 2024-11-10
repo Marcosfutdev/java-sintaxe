@@ -1,6 +1,5 @@
 package vetores;
 import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args){
        // tipo[] nome_vetor;
